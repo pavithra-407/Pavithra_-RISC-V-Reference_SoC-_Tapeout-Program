@@ -1,17 +1,35 @@
-# Pavithra_-RISC-V-Reference_SoC-_Tapeout-Program
+# 🚀 Pavithra – RISC-V Reference SoC Tapeout Program
 
-## System Requirements
-- Ubuntu 20.04 or higher
-- 6 GB RAM
-- 50 GB HDD
-- 4 vCPU
+This repository contains the setup instructions and tools required for the **RISC-V Reference SoC Tapeout Program**.
 
-## Setup Instructions
+---
 
-### Update Packages
+## 📑 Table of Contents
+1. [System Requirements](#-system-requirements)
+2. [Setup Instructions](#-setup-instructions)
+   - [Update Packages](#1️⃣-update-packages)
+   - [Yosys Installation](#2️⃣-yosys-installation)
+   - [Icarus Verilog Installation](#3️⃣-icarus-verilog-installation)
+   - [GTKWave Installation](#4️⃣-gtkwave-installation)
+3. [Notes](#-notes)
 
+---
+
+## 🖥️ System Requirements
+- Ubuntu 20.04 or higher  
+- 6 GB RAM  
+- 50 GB HDD  
+- 4 vCPU  
+
+---
+
+## ⚙️ Setup Instructions
+
+### 1️⃣ Update Packages
+```bash
 sudo apt update
 sudo apt install build-essential dkms linux-headers-$(uname -r)
+
 
 
 1️⃣ Yosys Installation
