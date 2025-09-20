@@ -1,8 +1,9 @@
-# 🚀 Pavithra – RISC-V Reference SoC Tapeout Program
+# 🖥️ RISC-V Reference SoC Tapeout Program VSD
 
-This repository contains the setup instructions and tools required for the **RISC-V Reference SoC Tapeout Program**.
+![RISC-V](https://img.shields.io/badge/RISC-V-VSD-blue) ![Participants](https://img.shields.io/badge/Participants-India-orange) ![India](https://img.shields.io/badge/Made%20in-India-green)
 
----
+## Welcome to my journey through the SoC Tapeout Program VSD!
+This repository documents my week-by-week progress with tasks inside each week.
 
 ## 📑 Table of Contents
 1. [System Requirements](#-system-requirements)
@@ -65,3 +66,30 @@ sudo apt install gtkwave
 
 <img width="724" height="417" alt="Screenshot from 2025-09-20 12-23-35" src="https://github.com/user-attachments/assets/5c0d7ee3-cb7a-460d-a51f-254c37c40db2" />
 
+
+"In this program, we learn to design a System-on-Chip (SoC) from basic RTL to GDSII using open-source tools. Part of India’s largest collaborative RISC-V tapeout initiative, empowering 3500+ participants to build silicon and advance the nation’s semiconductor ecosystem."
+
+## 📅 Week 0 — Setup & Tools
+| Task         | Description                           | Status    |
+|--------------|---------------------------------------|-----------|
+| Task 0       | 🛠️ Tools Installation — Installed Iverilog, Yosys, and gtkWave | ✅ Done    |
+
+## 🌟 Key Learnings from Week 0
+- Installed and verified open-source EDA tools successfully.
+- Learned about basic environment setup for RTL design and synthesis.
+- Prepared the system for upcoming RTL → GDSII flow experiments.
+
+## 🙏 Acknowledgment
+I am thankful to Kunal Ghosh and Team VLSI System Design (VSD) for the opportunity to participate in the ongoing RISC-V SoC Tapeout Program.
+
+I also acknowledge the support of RISC-V International, India Semiconductor Mission (ISM), VLSI Society of India (VSI), and Efabless for making this initiative possible.
+
+## 📈 Weekly Progress Tracker
+| Week0 | Week 1 | Week 2 |
+|-------|--------|--------|
+| ✅     |        |        |
+
+## 🔗 Program Links
+- [VSD Website](https://www.vlsisystemdesign.com/)
+- [RISC-V](https://riscv.org/)
+- [Efabless](https://efabless.com/)
