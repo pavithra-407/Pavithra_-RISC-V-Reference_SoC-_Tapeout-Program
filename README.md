@@ -84,7 +84,7 @@ sudo apt install gtkwave
 - Learned about basic environment setup for RTL design and synthesis.
 - Prepared the system for upcoming RTL → GDSII flow experiments.
 
-## 🙏 Acknowledgment
+## Acknowledgment
 I am thankful to Kunal Ghosh , IIT Gandhinagar and Team VLSI System Design (VSD) for the opportunity to participate in the ongoing RISC-V SoC Tapeout Program.
 
 I also acknowledge the support of RISC-V International, India Semiconductor Mission (ISM), VLSI Society of India (VSI), and Efabless for making this initiative possible.
