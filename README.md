@@ -1,5 +1,4 @@
 # Pavithra_-RISC-V-Reference_SoC-_Tapeout-Program
-# Pavithra – RISC-V Reference SoC Tapeout Program
 
 ## System Requirements
 - Ubuntu 20.04 or higher
