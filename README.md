@@ -27,7 +27,7 @@ This repository documents my week-by-week progress with tasks inside each week.
 ## ⚙️ Setup Instructions
 
 ### 1️⃣ Update Packages
-```bash
+
 sudo apt update
 sudo apt install build-essential dkms linux-headers-$(uname -r)
 
