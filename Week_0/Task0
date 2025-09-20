@@ -1,2 +1,34 @@
 # Week 0 - Task 0
-This folder contains lab files for the RISC-V SoC Tapeout Program.
+
+This folder contains lab files and instructions for **Week 0** of the **RISC-V SoC Tapeout Program**. The tasks in this week are designed to help you get started with **Digital VLSI SoC design**, set up the required **tools**, and make your **first GitHub submission**.
+
+---
+
+## Tasks Overview
+
+### 1️⃣ Getting Started with Digital VLSI SoC Design and Planning
+- Introduction to **Digital VLSI SoC design flow**  
+- Overview of **processor cores, memory, and peripheral integration**  
+- Planning your lab setup and understanding project requirements  
+- Recommended reading materials and references for beginners  
+
+### 2️⃣ Tools Installation Instructions
+- Step-by-step guide to install essential tools for the RISC-V SoC development:
+  - **Yosys** – RTL synthesis and verification  
+  - **Icarus Verilog (iverilog)** – Simulation of Verilog designs  
+  - **GTKWave** – Waveform viewing and analysis  
+- Screenshots and command-line instructions are included for easy setup  
+- Notes on verifying the correct installation of each tool  
+
+### 3️⃣ Week 0 GitHub Submission
+- How to **create and organize your GitHub repository** for the course  
+- Uploading lab files, documentation, and screenshots  
+- Instructions for committing, pushing, and maintaining version control  
+- Ensuring proper file/folder structure for future weeks  
+
+---
+
+## 📌 Notes
+- Make sure all tools are installed and verified before proceeding to Week 1.  
+- Maintain a clean and organized GitHub repository with proper README and folder structure.  
+- Follow naming conventions for files and folders as per lab instructions.
